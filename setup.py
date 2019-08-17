@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/gunsagargulati/scanoramaCT",
-    download_url='https://github.com/gunsagargulati/scanoramaCT/test',
+    download_url='https://github.com/gunsagargulati/scanoramaCT/archive/v0.0.2.tar.gz',
     packages=setuptools.find_packages(),
 	install_requires=[
         'annoy>=1.11.5',
