@@ -1,0 +1,7 @@
+annoy
+intervaltree
+numpy
+scipy
+sklearn
+fbpca
+matplotlib
