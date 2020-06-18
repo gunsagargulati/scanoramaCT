@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="scanoramaCT",
-    version="0.0.2",
+    version="0.0.3",
     author="Gunsagar Gulati",
     author_email="gunsagargulati@gmail.com",
     description="An adapted version of the Scanorama package by Brian Hie, Bryan Bryson, and Bonnie Berger for application to CytoTRACE.",
@@ -21,7 +21,7 @@ setuptools.setup(
         'matplotlib>=2.0.2',
         'numpy>=1.12.0',
         'scipy>=1.0.0',
-        'scikit-learn>=0.20rc1'],
+        'scikit-learn==0.20rc1'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
